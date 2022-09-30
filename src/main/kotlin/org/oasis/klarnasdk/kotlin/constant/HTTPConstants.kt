@@ -1,4 +1,4 @@
-package org.oasis.klarnasdk.kotlin.contant
+package org.oasis.klarnasdk.kotlin.constant
 
 import okhttp3.MediaType.Companion.toMediaType
 

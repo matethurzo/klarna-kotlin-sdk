@@ -3,7 +3,7 @@ package org.oasis.klarnasdk.kotlin.util
 import okhttp3.Credentials
 import okhttp3.OkHttpClient
 import okhttp3.Request
-import org.oasis.klarnasdk.kotlin.contant.*
+import org.oasis.klarnasdk.kotlin.constant.*
 import java.nio.charset.StandardCharsets
 
 // Extensions
